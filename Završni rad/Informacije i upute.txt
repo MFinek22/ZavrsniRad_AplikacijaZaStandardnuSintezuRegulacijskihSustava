@@ -1,0 +1,10 @@
+Poštovani!
+Ako sam dobro shvatio, za sustave sa statičkim procesom kao i za astatički proces 1. reda izabire se PI regulator, dok za astatičke procese 2. i 3. reda DT1 ili PDT1. Trebam li tako i u aplikaciji napraviti? Dakle, utikpaju se parametri procesa i kasnije se unose željeni/ponuđeni parametri regulatora i nakon toga se crta odaziv na step i naravno bode. Bi li to bilo to kako ste zamislili?
+
+Da, jedino nemojte staviti mogućnost izbora astatičkog procesa 3. reda jer se to ne može stabilizirati bez uvođenja dodatnih povratnih veza
+ 
+
+1. red statički 
+1. red astatički
+2. red statički
+2. red astatički
