@@ -1,0 +1,6 @@
+Path	Symbol	Reason
+MainMenu\slprj\raccel\StatickiProces\tmwinternal\StatickiProces_TgtConnMgr.mat	coder.internal.connectivity.ParamTuningAppSvc	undeployable
+MainMenu\slprj\raccel\StatickiProces\tmwinternal\StatickiProces_TgtConnMgr.mat	coder.internal.connectivity.RaccelConnection	undeployable
+MainMenu\slprj\raccel\StatickiProces\tmwinternal\StatickiProces_TgtConnMgr.mat	coder.internal.connectivity.TgtConnMgr	undeployable
+MainMenu\slprj\raccel\StatickiProces\tmwinternal\minfo.mat	coder.internal.ChildBuildUnit	undeployable
+MainMenu\slprj\raccel\StatickiProces\tmwinternal\minfo.mat	coder.internal.SlSimMode	undeployable
